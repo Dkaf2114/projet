@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574802098 source:c:\users\faycal\desktop\programming\tp algo\t2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
